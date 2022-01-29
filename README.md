@@ -1,7 +1,13 @@
 # Welcome!
  
-## I'm Marcos Filho Or DeElfos
+#### I'm Marcos Filho Or DeElfos
 
+### **🔎 It's your first time here?** Repositories that I consider relevant:
+##### https://github.com/DeElfos/to-do - todo app:
+
+###### A simple application made in VueJs and Quasar Framework with local data (does not save changes for now) that shows what a to-do application would look like. I intend to add login and database to become a publishable app on the Play Store. ".apk" available.
+<br />
+<br />
 
 #### **⚡ Fun fact**: 
 My nickname came up early in games, for having ears like an elf - or in Portuguese "Orelhas 'de elfos' " (as a child).
