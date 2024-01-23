@@ -3,11 +3,12 @@
 #### I'm Marcos Filho Or DeElfos
 
 ### **🔎 It's your first time here?** Repositories that I consider relevant:
-##### https://github.com/DeElfos/to-do - todo app:
 
+##### https://github.com/DeElfos/to-do - todo app:
 ###### A simple application made in VueJs and Quasar Framework with local data (does not save changes for now) that shows what a to-do application would look like. I intend to add login and database to become a publishable app on the Play Store. ".apk" available.
-<br />
-<br />
+
+##### https://github.com/DeElfos/atm-teste - ATM: 
+###### This project simulates an ATM, allowing users to perform virtual withdrawals. It utilizes Vue 2 for the frontend and Node.js with Express and MongoDB for the backend. Users can enter the withdrawal amount and receive a visual representation of the dispensed notes.
 
 #### **⚡ Fun fact**: 
 My nickname came up early in games, for having ears like an elf - or in Portuguese "Orelhas 'de elfos' " (as a child).
